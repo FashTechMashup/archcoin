@@ -1,0 +1,22 @@
+{
+  "name": "archcoin",
+  "version": "1.0.0",
+  "description": "Crystal and Brians implimentation of Naivecoin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Proto715/archcoin.git"
+  },
+  "author": "Crystal Crawford and Brian Harrington",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Proto715/archcoin/issues"
+  },
+  "homepage": "https://github.com/Proto715/archcoin#readme",
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
